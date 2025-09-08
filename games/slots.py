@@ -12,6 +12,6 @@ def girar_slots():
     if roll1 == roll2 == roll3:
         e_jackpot = True
     else:
-        e_jackpot = false
+        e_jackpot = False
 
     return resultado, e_jackpot
