@@ -1,4 +1,4 @@
-![Logo do projeto](assets/logo.png)
+<img src="assets/logo.png" alt="Logo do projeto" width="300px">
 
 # Jike Joker 🤡🎲
 
