@@ -1,3 +1,5 @@
+![Logo do projeto](assets/logo.png)
+
 # Jike Joker 🤡🎲
 
 Um bot de Discord com jogos de azar **(sem apostas reais!)** para diversão com amigos.  
